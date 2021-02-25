@@ -1,6 +1,6 @@
 # DenseCap
 
-This is the code for the paper
+This is the code for the paper densecap
 
 **[DenseCap: Fully Convolutional Localization Networks for Dense Captioning](http://cs.stanford.edu/people/karpathy/densecap/)**,
 <br>
